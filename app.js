@@ -1,3 +1,4 @@
+const cool = require('cool-ascii-faces');
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');

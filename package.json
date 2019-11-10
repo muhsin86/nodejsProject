@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "cool-ascii-faces": "^1.3.4",
     "express": "^4.15.4",
     "mongodb": "^2.2.31",
     "mustache-express": "^1.2.5"
